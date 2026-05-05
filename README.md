@@ -84,14 +84,6 @@ Create a `.env` file in the server folder and add:
 PORT=5000
 ```
 
-(Add more variables if needed)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots of your app here)
-
 ---
 
 ## 📌 Future Improvements
@@ -106,8 +98,7 @@ PORT=5000
 
 ## 👤 Author
 
-Your Name
-
+JEDDA RIM
 ---
 
 This project was built to explore realtime communication and full-stack development.
